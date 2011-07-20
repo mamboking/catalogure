@@ -1,13 +1,10 @@
 # catalogure
 
-FIXME: write description
+Catalogure is a clojure framework for creating, editing and using generic catalogs.
 
-## Usage
-
-FIXME: write
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Kevin Hostelley
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the BSD License.
