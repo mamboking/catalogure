@@ -2,5 +2,5 @@
   (:use [catalogure.core])
   (:use [clojure.test]))
 
-(deftest replace-me ;; FIXME: write
-  (is false "No tests have been written."))
+(deftest create-catalog-test
+  (is (not (nil? (create-catalog {:id 1 :name "Test" :version 1}))) "Returned a nil catalog."))

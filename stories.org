@@ -1,6 +1,6 @@
 #+STARTUP: hidestars indent
 #+TODO: TODO SCHEDULED DEVELOPING | FINISHED GRAVEYARD
-* TODO Create a catalog
+* DEVELOPING Create a catalog
 As a user I would like to create a new catalog so that I can populate
 it with interesting items.  When I create a catalog I want to be able
 to specify the following:
@@ -10,7 +10,7 @@ to specify the following:
 + Valid From Date
 + Valid To Date
 + Version
-* TODO Create an Item and add it to a catalog
+* SCHEDULED Create an Item and add it to a catalog
 As a user I would like to create items and add them to my catalog.
 Items I create should have the following properties:
 + ID
