@@ -10,6 +10,14 @@ to specify the following:
 + Valid From Date
 + Valid To Date
 + Version
+* TODO Create a Catalog Element and add it to a catalog
+As a user I would like to create a catalog element and add it to my catalog.
+Catalog elements will allow me to control how items are displayed.  It will
+also allow me to group items together.  Elements should have the following properties:
++ ID
++ Name
++ List of items or other elements
++ List of attributes (defined later)
 * SCHEDULED Create an Item and add it to a catalog
 As a user I would like to create items and add them to my catalog.
 Items I create should have the following properties:
